@@ -1,0 +1,6 @@
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Multiply_NonVoid\Multiply_NonVoid\bin\Debug\Multiply_NonVoid.exe.config
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Multiply_NonVoid\Multiply_NonVoid\bin\Debug\Multiply_NonVoid.exe
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Multiply_NonVoid\Multiply_NonVoid\bin\Debug\Multiply_NonVoid.pdb
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Multiply_NonVoid\Multiply_NonVoid\obj\Debug\Multiply_NonVoid.exe
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Multiply_NonVoid\Multiply_NonVoid\obj\Debug\Multiply_NonVoid.pdb
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Multiply_NonVoid\Multiply_NonVoid\obj\Debug\Multiply_NonVoid.csprojResolveAssemblyReference.cache

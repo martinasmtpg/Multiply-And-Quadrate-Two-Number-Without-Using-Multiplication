@@ -1,0 +1,5 @@
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Quadrate_NonVoid\Quadrate_NonVoid\bin\Debug\Quadrate_NonVoid.exe.config
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Quadrate_NonVoid\Quadrate_NonVoid\bin\Debug\Quadrate_NonVoid.exe
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Quadrate_NonVoid\Quadrate_NonVoid\bin\Debug\Quadrate_NonVoid.pdb
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Quadrate_NonVoid\Quadrate_NonVoid\obj\Debug\Quadrate_NonVoid.exe
+C:\Users\Martina\Documents\Visual Studio 2015\Projects\Console C#\Quadrate_NonVoid\Quadrate_NonVoid\obj\Debug\Quadrate_NonVoid.pdb
